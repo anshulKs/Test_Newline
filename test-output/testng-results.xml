@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-06T03:30:44 GMT-05:00" name="Default suite" finished-at="2022-11-06T03:31:06 GMT-05:00" duration-ms="21846">
+    <groups>
+    </groups>
+    <test started-at="2022-11-06T03:30:44 GMT-05:00" name="Default test" finished-at="2022-11-06T03:31:06 GMT-05:00" duration-ms="21846">
+      <class name="NewLine_Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:44 GMT-05:00" name="setUp" finished-at="2022-11-06T03:30:48 GMT-05:00" duration-ms="3834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tC_001_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:48 GMT-05:00" name="tC_001_INVALID" finished-at="2022-11-06T03:30:50 GMT-05:00" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_001_INVALID -->
+        <test-method signature="tC_001_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:50 GMT-05:00" name="tC_001_VALID" finished-at="2022-11-06T03:30:52 GMT-05:00" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_001_VALID -->
+        <test-method signature="tC_002_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:52 GMT-05:00" name="tC_002_INVALID" finished-at="2022-11-06T03:30:53 GMT-05:00" duration-ms="1196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_002_INVALID -->
+        <test-method signature="tC_002_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:53 GMT-05:00" name="tC_002_VALID" finished-at="2022-11-06T03:30:54 GMT-05:00" duration-ms="1716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_002_VALID -->
+        <test-method signature="tC_003_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:54 GMT-05:00" name="tC_003_INVALID" finished-at="2022-11-06T03:30:55 GMT-05:00" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_003_INVALID -->
+        <test-method signature="tC_003_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:55 GMT-05:00" name="tC_003_VALID" finished-at="2022-11-06T03:30:56 GMT-05:00" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_003_VALID -->
+        <test-method signature="tC_004_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:56 GMT-05:00" name="tC_004_INVALID" finished-at="2022-11-06T03:30:58 GMT-05:00" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_004_INVALID -->
+        <test-method signature="tC_004_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:58 GMT-05:00" name="tC_004_VALID" finished-at="2022-11-06T03:30:59 GMT-05:00" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_004_VALID -->
+        <test-method signature="tC_005_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:30:59 GMT-05:00" name="tC_005_INVALID" finished-at="2022-11-06T03:31:00 GMT-05:00" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_005_INVALID -->
+        <test-method signature="tC_005_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:31:00 GMT-05:00" name="tC_005_VALID" finished-at="2022-11-06T03:31:02 GMT-05:00" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_005_VALID -->
+        <test-method signature="tC_006_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:31:02 GMT-05:00" name="tC_006_INVALID" finished-at="2022-11-06T03:31:03 GMT-05:00" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_006_INVALID -->
+        <test-method signature="tC_006_VALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:31:03 GMT-05:00" name="tC_006_VALID" finished-at="2022-11-06T03:31:04 GMT-05:00" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_006_VALID -->
+        <test-method signature="tC_007_INVALID()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:31:04 GMT-05:00" name="tC_007_INVALID" finished-at="2022-11-06T03:31:06 GMT-05:00" duration-ms="1614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC_007_INVALID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NewLine_Tests@306f16f3]" started-at="2022-11-06T03:31:06 GMT-05:00" name="tearDown" finished-at="2022-11-06T03:31:06 GMT-05:00" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NewLine_Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

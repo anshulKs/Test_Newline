@@ -1,0 +1,10 @@
+// The selenium server file is included in the directory. Make sure to build path to the .jar file.
+
+// The chromedriver is included in the directory. By default, it can be pasted in the C: Drive to execute the code.
+// Otherwise use the following command in the setUp() method-
+
+System.setProperty("webdriver.chrome.driver", "PATH_TO_CHROMEDRIVER.EXE");
+
+// This command is used to tell the project about the location of chromedriver, as openqa.selenium* fetches it.
+// It can detect by default as well, but just in case it doesn't specify the path.
+// It is used to avoid any browser and driver version conflicts.
