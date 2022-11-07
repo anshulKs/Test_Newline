@@ -1,0 +1,4 @@
+The project is not part of any other organization's development environment.
+This project is meant for the evaluation of a student's work.
+
+-Anshul Sharma
